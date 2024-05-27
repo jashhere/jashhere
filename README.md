@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashhere&label=Profile%20views&color=0e75b6&style=flat" alt="jashhere" /> </p>
 
-- 🔭 I’m currently working on **Special Character As Intern**
+- 🔭 I’m currently working at **Special Character As Intern**
+
+- 🔭 I’m very eager and an enthusiast to work and develop new skills
 
 - 🌱 I’m currently learning **AI,ML**
 
